@@ -7,10 +7,7 @@ Django project with clean structure, including models, views, URLs, and optional
 
 ## Setup Instructions
 
-```bash
-# Clone repo
-git clone https://github.com/your-username/bookstore.git
-cd bookstore
+
 
 # Create virtual environment
 python -m venv venv
