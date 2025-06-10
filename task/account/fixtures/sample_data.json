@@ -1,0 +1,20 @@
+[
+  {
+    "model": "account.userprofile",
+    "pk": 1,
+    "fields": {
+      "name": "Alice",
+      "email": "alice@example.com",
+      "age": 30
+    }
+  },
+  {
+    "model": "account.userprofile",
+    "pk": 2,
+    "fields": {
+      "name": "Bob",
+      "email": "bob@example.com",
+      "age": 25
+    }
+  }
+]
